@@ -1,0 +1,6 @@
+tahsinul jubair
+100 100 100 100 100
+ikra
+1 2 3 4 5
+sar
+0 0 0 0 1
